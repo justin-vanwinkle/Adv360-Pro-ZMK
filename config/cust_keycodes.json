@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"Colemak (Mac)"
+		],
+		"description": "Colemak (Mac)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
